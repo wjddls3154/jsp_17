@@ -15,22 +15,22 @@ jQuery는
 구글에서 jquery cdn 쳐서, uncompressed 내용(아래 script 내용) 복사 후, 붙여넣으면, jQuery 사용 가능 하다.
 
 
-function f() { // 버튼 눌렀을 때 실행되는
+      function f() { // 버튼 눌렀을 때 실행되는
   
       $('#one').html('반갑습니다~!!!!') // 1. jquery 사용 1, #은 id를 의미
   
       document.getElementById('one').style.backgroundColor = 'red'; // 배경색이 빨강색이 된다.
   
-    }
+      }
   
-    // $('#two').click(
+      // $('#two').click(
   
-    //   function f(){
+      //   function f(){
   
-    //     $('p').html('반갑습니다~!!!!') // 2. jquery 사용 2
+      //     $('p').html('반갑습니다~!!!!') // 2. jquery 사용 2
   
-    //   }
+      //   }
   
-    // );
+      // );
   
 
