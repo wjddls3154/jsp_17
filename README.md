@@ -6,13 +6,13 @@
 ![image](https://user-images.githubusercontent.com/37132897/158180114-6033615b-12d1-4ab3-8cc5-3edff9f01d0e.png)
 - 버튼 누른 후
 
-<!-- jQuery는
+jQuery는
 
-  1. 엘리먼트를 선택할 수 있는 강력한 방법
+1. 엘리먼트를 선택할 수 있는 강력한 방법
 
-  2. 선택된 엘리먼트를 효율적으로 제어할 수 있는 방법
+2. 선택된 엘리먼트를 효율적으로 제어할 수 있는 방법
 
-  구글에서 jquery cdn 쳐서, uncompressed 내용(아래 script 내용) 복사 후, 붙여넣으면, jQuery 사용 가능 하다.  -->
+구글에서 jquery cdn 쳐서, uncompressed 내용(아래 script 내용) 복사 후, 붙여넣으면, jQuery 사용 가능 하다.
 
 
 function f() { // 버튼 눌렀을 때 실행되는
